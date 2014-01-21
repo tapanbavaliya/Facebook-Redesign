@@ -1,0 +1,113 @@
+body{
+	background-color: #3B5998;
+	font-family: hevetica,open-sans;
+}
+.top-bar-section ul li.active > a {
+background: #3B5998;
+}
+.top-bar-section ul li.active > a:hover {
+background: #3B5998;
+}
+.status{
+	font-size: 20px;
+}
+.status-change{
+	color: red;
+}
+.add-border{
+	border-right: 0px solid black;
+}
+.label{
+	background-color: #303030;
+}
+.color-font{
+	color: white;
+}
+.body-block{
+	background-color: white;
+	font-family: sans-serif;
+}
+.font-style{
+	font-family: sans-serif;
+}
+/*.chat-user-hover:hover{
+	background-color: red;
+}
+a:hover{
+	background-color: red;
+}*/
+/*.block-color{
+	background-color: gray;
+}*/
+.bottom-sepretion{
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.name-adjust{
+	margin-top: 9px;
+}
+.green{
+	color: green;
+}
+.hover-chat:hover{
+	background-color: rgba(0,0,0,0.2);
+	cursor: pointer;
+}
+.block-height{
+	height: 800px;
+	overflow: hidden;
+}
+.block-heignt-inner{
+	overflow: scroll;
+	height: 100%;
+	width: 100%;
+}
+.sub-nav dt a, .sub-nav dd a, .sub-nav li a {
+color: black;
+}
+.sub-nav dt a:hover, .sub-nav dd a:hover, .sub-nav li a:hover {
+border-bottom: 1px solid black;
+color: #303030;
+}
+.sub-nav {
+overflow: inherit;
+}
+.textarea-resize {
+    height: 120px;
+}
+.custom-display{
+	display: inline-block;
+}
+.margin-bottom-reduce{
+	border-top: 1px solid #c0c0c0;
+	border-bottom: 1px solid #c0c0c0;
+	margin-bottom: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.font-comment{
+	color: #303030;
+}
+.red{
+	color: red;
+}
+.black{
+	color: black;
+}
+.time-show{
+	border-bottom: 1px solid #c0c0c0;
+	padding-top: 5px;
+	padding-bottom: 8px;
+	font-size: 14px;
+	color: #a2a2a2;
+}
+.add-on{
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+.photo-title{
+	padding-bottom: 5px;
+}
+.img-block{
+	padding-bottom: 5px;
+}
